@@ -1,0 +1,10 @@
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\bin\Debug\netcoreapp1.1\GoogleDriveNC.deps.json
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\bin\Debug\netcoreapp1.1\GoogleDriveNC.runtimeconfig.json
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\bin\Debug\netcoreapp1.1\GoogleDriveNC.runtimeconfig.dev.json
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\bin\Debug\netcoreapp1.1\GoogleDriveNC.dll
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\obj\Debug\netcoreapp1.1\GoogleDriveNC.csprojResolveAssemblyReference.cache
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\obj\Debug\netcoreapp1.1\GoogleDriveNC.AssemblyInfo.cs
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\bin\Debug\netcoreapp1.1\client_secret.json
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\bin\Debug\netcoreapp1.1\GoogleDriveNC.pdb
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\obj\Debug\netcoreapp1.1\GoogleDriveNC.dll
+D:\work\wscpp\GoogleDriveNC\GoogleDriveNC\obj\Debug\netcoreapp1.1\GoogleDriveNC.pdb
